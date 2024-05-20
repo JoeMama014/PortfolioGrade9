@@ -1,0 +1,28 @@
+body {
+  background-image: url('/subnautica2.jpeg');
+  background-size: cover;
+  height: 1850px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.info {
+  padding: 40px 90px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #E88C8D7A;
+  position: absolute;
+  top: 30%;
+  font-size: 50px;
+}
+
+.The-button {
+  padding: 10px 50px;
+  border-radius: 10px;
+  background-color: indianred;
+  border: none;
+  float: right;
+  font-size: 40px;
+  text-decoration: none;
+  color: darkred;
+}
